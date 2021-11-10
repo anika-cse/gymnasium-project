@@ -1,0 +1,374 @@
+/* ==========================
+      extra-small device starts
+======================== */
+@media (max-width: 575px)
+{
+    .navbar-toggler{
+        padding: 5px !important;
+    }
+
+    .navbar .navbar-nav{
+        background: #b3d6d3;
+        text-align: center;
+    }
+
+    .navbar-light .navbar-toggler {
+        border-color: #acc9eb;
+        color:#11bafd;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-left: 0 !important;
+        font-size: 16px !important;
+    }
+
+    /* navbar css ends */
+
+    #banner .banner-slider .banner-item .banner-content .banner-border{
+        display: none !important;
+    }
+    /* banner css ends */
+
+    #about {
+        padding-top: 50px !important;
+        padding-bottom: 50px !important;
+    }
+
+    .about-title{
+        padding-top: 20px !important;
+    }
+
+    /* about css ends */
+
+    #team-title {
+        padding-top: 50px !important;
+    }
+
+    #team {
+        padding-bottom: 50px !important;
+    }
+
+    /* team css ends */
+
+    #testimonial{
+        height: 300px !important;
+        margin-bottom: 50px !important;
+    }
+
+    #testimonial .testimonial-slider .testimonial-item p {
+        width: 340px !important;
+        line-height: 20px !important;
+    }
+
+    /* testimonial css ends */
+
+    #membership {
+        padding-bottom: 50px !important;
+    }
+
+    /* membership css ends */
+    #count-part{
+        height: 620px !important;
+    }
+
+    /* count-part css ends */
+
+    #class {
+        padding-top: 50px !important;
+    }
+
+    #class .class-content {
+        margin-bottom: 50px !important;
+    }
+
+    /* class css ends */
+
+    #brand {
+        padding-top: 50px !important;
+        padding-bottom: 50px !important;
+    }
+
+    #brand .prev-arrow{
+        display: none !important;
+    }
+
+    #brand .next-arrow{
+        display: none !important;
+    }
+
+    /* brand css ends */
+
+    #footer{
+        height: 1045px !important;
+    }
+
+    #footer .footer-logo{
+        text-align: center !important;
+    }
+
+    #footer .footer-line::before{
+        display: none !important;
+    }
+
+    #footer .footer-line::after{
+        display: none !important;
+    }
+
+    ol, ul {
+        padding-left: 0 !important;
+    }
+
+    /* footer css ends */
+}
+
+/* ==========================
+      extra-small device ends
+======================== */
+
+@media (min-width: 576px) and (max-width: 767px)
+{
+    .navbar-toggler{
+        padding: 5px !important;
+    }
+
+    
+    .navbar .navbar-nav{
+        background: #b3d6d3;
+        text-align: center;
+    }
+
+    .navbar-light .navbar-toggler {
+        border-color: #acc9eb;
+        color:#11bafd;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-left: 0 !important;
+        font-size: 16px !important;
+    }
+
+    /* navbar css ends */
+
+    #banner .banner-slider .banner-item .banner-content .banner-border{
+        display: none !important;
+    }
+    /* banner css ends */
+    #about {
+        padding-top: 50px !important;
+        padding-bottom: 50px !important;
+    }
+
+    .about-title{
+        padding-top: 20px !important;
+    }
+
+    /* about css ends */
+
+    #team-title {
+        padding-top: 50px !important;
+    }
+
+    #team {
+        padding-bottom: 50px !important;
+    }
+
+    /* team css ends */
+
+    #gallery .gallery-image1 .gallery-overlay ul li {
+        line-height: 150px !important;
+    }
+
+    #gallery .gallery-image2 .gallery-overlay ul li {
+        line-height: 180px !important;
+    }
+    /* gallery css ends */
+
+    #testimonial{
+        height: 320px !important;
+        margin-bottom: 50px !important;
+    }
+
+    #testimonial .testimonial-slider .testimonial-item p{
+        width: 245px !important;
+    }
+    /* testimonial css ends */
+
+    #membership {
+        padding-bottom: 50px !important;
+    }
+
+    /* membership css ends */
+    #count-part{
+        height: 185px !important;
+    }
+
+    /* count-part css ends */
+
+    #class {
+        padding-top: 50px !important;
+    }
+
+    #class .class-content {
+        margin-bottom: 50px !important;
+    }
+
+    /* class css ends */
+
+    #brand {
+        padding-top: 50px !important;
+        padding-bottom: 50px !important;
+    }
+
+    #brand .prev-arrow{
+        display: none !important;
+    }
+
+    #brand .next-arrow{
+        display: none !important;
+    }
+
+    /* brand css ends */
+
+    #footer{
+        height: 1045px !important;
+    }
+
+    #footer .footer-logo{
+        text-align: center !important;
+    }
+
+    #footer .footer-line::before{
+        display: none !important;
+    }
+
+    #footer .footer-line::after{
+        display: none !important;
+    }
+
+    ol, ul {
+        padding-left: 0 !important;
+    }
+
+    /* footer css ends */
+}
+
+/* ==========================
+    small device ends
+======================== */
+
+@media (min-width: 768px) and (max-width: 991px)
+{
+    .navbar-toggler{
+        padding: 5px !important;
+    }
+
+    
+    .navbar .navbar-nav{
+        background: #b3d6d3;
+        text-align: center;
+    }
+
+    .navbar-light .navbar-toggler {
+        border-color: #acc9eb;
+        color:#11bafd;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-left: 0 !important;
+        font-size: 16px !important;
+    }
+
+    /* navbar css ends */
+
+    #banner .banner-slider .banner-item .banner-content .banner-border{
+        display: none !important;
+    }
+    /* banner css ends */
+    #about {
+        padding-top: 50px !important;
+        padding-bottom: 50px !important;
+    }
+
+    .about-title{
+        padding-top: 20px !important;
+    }
+
+    /* about css ends */
+
+    #gallery .gallery-image1 .gallery-overlay ul li {
+        line-height: 218px !important;
+    }
+
+    #gallery .gallery-image2 .gallery-overlay ul li {
+        line-height: 255px !important;
+    }
+    /* gallery css ends */
+
+    #team-title {
+        padding-top: 50px !important;
+    }
+
+    #team {
+        padding-bottom: 50px !important;
+    }
+
+    /* team css ends */
+
+    #testimonial{
+        height: 295px !important;
+    }
+
+    #testimonial .testimonial-slider .testimonial-item p{
+        width: 350px !important;
+    }
+
+    /* testimonial css ends */
+
+    #membership {
+        padding-bottom: 50px !important;
+    }
+
+    /* membership css ends */
+
+    #class {
+        padding-top: 50px !important;
+    }
+
+    /* class css ends */
+
+    #brand {
+        padding-top: 50px !important;
+        padding-bottom: 50px !important;
+    }
+
+    #brand .prev-arrow{
+        left: -15px !important;
+    }
+
+    #brand .next-arrow{
+        right: -10px !important;
+    }
+    /* brand css ends */
+
+    #footer{
+        height: 715px !important;
+    }
+}
+
+/* ==========================
+    medium device ends
+======================== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
